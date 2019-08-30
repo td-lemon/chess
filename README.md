@@ -1,1 +1,1 @@
-# chess
+# gobang game
